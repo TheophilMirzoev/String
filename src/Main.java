@@ -36,6 +36,5 @@ public class Main {
         // задание 3
         fullName = fullName.replace("Ё", "Е");
         System.out.println("Данные ФИО сотрудника — " + fullName);
-
     }
 }
